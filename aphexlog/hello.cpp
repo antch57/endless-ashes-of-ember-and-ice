@@ -2,8 +2,7 @@
 using namespace std;
 
 int not_main() {
-  cout << "NOT Hello World!" << endl;
-  cout << "I'm a C++ program" << endl;
+  cout << "NOT MAIN..." << endl;
   return 0;
 }
 
