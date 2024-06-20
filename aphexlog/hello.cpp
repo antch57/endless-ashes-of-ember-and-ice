@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
+int sidepiece() {
+  cout <<"Where I am" << endl;
+  return 0;
+}
 
 int not_main() {
   cout << "NOT MAIN..." << endl;
