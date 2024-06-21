@@ -1,5 +1,6 @@
 // Warrior.cpp (within src directory)
-#include "Worrior.h"
+#include <iostream>
+#include "../include/Warrior.h"
 
 Warrior::Warrior(const std::string &name, int health, int strength)
     : name(name), health(health), strength(strength) {}

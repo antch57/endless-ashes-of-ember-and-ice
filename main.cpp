@@ -1,5 +1,7 @@
-#include "include/Player.h"
 #include <iostream>
+#include <string>
+#include "include/Player.h"  // Adjust the path if necessary
+#include "include/Warrior.h" // Include Warrior header file if separate
 
 int main() {
   // Create an instance of Warrior

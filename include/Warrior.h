@@ -2,6 +2,7 @@
 #ifndef WARRIOR_H
 #define WARRIOR_H
 
+#include <iostream>
 #include "Player.h"
 
 class Warrior : public Player {
